@@ -114,11 +114,6 @@
 
 ---
 
-## 📞 Connect With Me
-
-- 📧 Email: priyasekar1305@gmail.com  
----
-
 ## ⚡ Fun Fact
 💡 I enjoy turning ideas into real-world applications and continuously upgrading my skills in AI & software development.
 
